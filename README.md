@@ -19,12 +19,11 @@
 
 ## 🧬 SYSTEM PROFILE
 
-> **Name:** Carlos Daniel  
+> **Name:** Carlos Daniel
 > **Role:** Full Stack Developer (Back-end Focus)  
 > **Specialization:** APIs • Automation • Security • Architecture  
 
-Sou desenvolvedor focado em criar **sistemas robustos**, **APIs escaláveis** e soluções com alta performance.  
-Formado pela **Alura** e com estudos em **Cybersecurity & Social Engineering**, sempre buscando eficiência, segurança e código limpo.
+Focado em criar **sistemas robustos**, **APIs escaláveis** e soluções com alta performance.  
 
 ---
 
